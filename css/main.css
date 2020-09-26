@@ -74,6 +74,7 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/* Custom height for carousel
 .carousel-item
 {
   height: 550px;
@@ -82,11 +83,14 @@ textarea {
 .carousel-item img
 {
   background-position: center;
-}
+}*/
+
+
 
 .project-content
 {
   padding-top: 50px;
+  margin-bottom: 50px;
 }
 
 footer
@@ -95,8 +99,13 @@ footer
   left: 0;
   bottom: 0;
   width: 100%;
+  background-color: #222222;
+  color: white;
 }
+.footer-copyright
+{
 
+}
 .jumbotron, .navbar-custom
 {
   background-color: #242331;
@@ -107,6 +116,12 @@ footer
 {
   color: white;
 }
+
+.jumbotron
+{
+  margin-top: 12px;
+}
+
 
 a:hover, .active a
 {
@@ -128,9 +143,6 @@ a:hover, .active a
   border-radius: 75px;
   margin-top: 15px;
 }
-
-
-
 
 
 
