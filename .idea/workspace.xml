@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81b13a23-3a29-4d91-bd53-565059326ef0" name="Default Changelist" comment="Feature: Added footer to all pages">
+    <list default="true" id="81b13a23-3a29-4d91-bd53-565059326ef0" name="Default Changelist" comment="Feature: Added custom navbar color on all pages">
+      <change afterPath="$PROJECT_DIR$/img/test.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/project-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/project-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601096192845</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Feature: Added custom navbar color on all pages">
+      <created>1601097618772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601097618772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Initial Commit" />
     <MESSAGE value="Feature: Added footer to all pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added footer to all pages" />
+    <MESSAGE value="Feature: Added custom navbar color on all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added custom navbar color on all pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="711" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601091342265">
@@ -140,10 +145,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="183" y="88" key="MergeDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601096111715" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601096198654">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601097620058">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601096198654" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601097620058" />
     <state x="739" y="169" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601096107131">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
