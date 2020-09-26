@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81b13a23-3a29-4d91-bd53-565059326ef0" name="Default Changelist" comment="Bug: Fixed footer position, and height.">
-      <change beforePath="$PROJECT_DIR$/.idea/hw_03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hw_03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/project-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/project-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-2.html" afterDir="false" />
+    <list default="true" id="81b13a23-3a29-4d91-bd53-565059326ef0" name="Default Changelist" comment="Feature: Added README.MD file">
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601099183491</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bug: Fixed Jumbotron">
+      <created>1601101493578</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601101493578</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feature: Added README.MD file">
+      <created>1601101729454</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601101729454</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +126,9 @@
     <MESSAGE value="Feature: Added custom navbar color on all pages" />
     <MESSAGE value="Feature: Added HTML and CSS on About page" />
     <MESSAGE value="Bug: Fixed footer position, and height." />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: Fixed footer position, and height." />
+    <MESSAGE value="Bug: Fixed Jumbotron" />
+    <MESSAGE value="Feature: Added README.MD file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added README.MD file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="711" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601091342265">
@@ -159,10 +167,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="183" y="88" key="MergeDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601096111715" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601099184687">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601101730539">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601099184687" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601101730539" />
     <state x="739" y="169" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601096107131">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
