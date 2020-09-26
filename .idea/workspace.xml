@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81b13a23-3a29-4d91-bd53-565059326ef0" name="Default Changelist" comment="Task: Initial Commit">
-      <change afterPath="$PROJECT_DIR$/img/item4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/item5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81b13a23-3a29-4d91-bd53-565059326ef0" name="Default Changelist" comment="Feature: Added footer to all pages">
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/project-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/project-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-2.html" afterDir="false" />
     </list>
@@ -27,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="project-2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601094581629</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feature: Added footer to all pages">
+      <created>1601096129940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601096129940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feature: Added footer to all pages">
+      <created>1601096137521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601096137521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Initial Commit" />
+    <MESSAGE value="Feature: Added footer to all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added footer to all pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="711" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601091342265">
@@ -116,10 +126,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1897" height="287" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601092844801" />
+    <state x="183" y="88" key="MergeDialog" timestamp="1601096111715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="183" y="88" key="MergeDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601096111715" />
     <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601094646567">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601094646567" />
+    <state x="739" y="169" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601096107131">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="169" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601096107131" />
     <state x="760" y="445" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601094606583">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
