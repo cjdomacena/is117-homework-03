@@ -74,14 +74,17 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-.carousel-item
-{
-  height: 550px;
-}
+.carousel .carousel-item {
+  height: 600px;
 
-.carousel-item img
+}
+.carousel .carousel-item img
 {
-  background-position: center;
+  position: absolute;
+  object-fit: cover;
+  top:0;
+  left: 0;
+  min-height: 600px;
 }
 
 .project-content
