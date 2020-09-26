@@ -97,6 +97,21 @@ footer
   width: 100%;
 }
 
+.jumbotron, .navbar-custom
+{
+  background-color: #242331;
+}
+
+
+.jumbotron, .navbar-custom, .navbar a
+{
+  color: white;
+}
+
+a:hover, .active a
+{
+  color: #cccccc;
+}
 
 
 

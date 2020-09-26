@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b13a23-3a29-4d91-bd53-565059326ef0" name="Default Changelist" comment="Feature: Added footer to all pages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/project-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/project-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-2.html" afterDir="false" />
     </list>
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601096137521</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: Added footer to all pages">
+      <created>1601096192845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601096192845</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,10 +140,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="183" y="88" key="MergeDialog/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601096111715" />
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601094646567">
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2" timestamp="1601096198654">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601094646567" />
+    <state x="551" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1040@0.0.1920.1080" timestamp="1601096198654" />
     <state x="739" y="169" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601096107131">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
